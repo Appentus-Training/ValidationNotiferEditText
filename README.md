@@ -130,7 +130,7 @@ and in module level build.gradle
 
      dependencies  { 
      
-   implementation 'com.github.AbhinavChauhan97:ValidationNotifierEditText:1.3.3'
+   implementation 'com.github.AbhinavChauhan97:ValidationNotifierEditText:1.3.7'
      
      }
        
